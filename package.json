@@ -21,6 +21,6 @@
     "cssesc": "^3.0.0",
     "html-minifier": "^4.0.0",
     "netlify-lambda": "^1.6.3",
-    "dart-sass": "^1.50.0"
+    "sass": "^1.50.0"
   }
 }
