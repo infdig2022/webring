@@ -2,8 +2,8 @@
     "title": "A Webring of students",
     "description": "This is the webring",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://infdig2022.netlify.app",
+    "repo": "https://github.com/infdig2022/webring",
     "admins": [
         {
             "name": "Dionisis Kontozidis",
