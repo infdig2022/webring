@@ -10,8 +10,13 @@
         "feed": null
     },
     {
-         "title": "Amvrosios Tagianoglou",
+        "title": "Amvrosios Tagianoglou",
         "url": "https://infdig2109.github.io/modern-resume-theme/",
+        "feed": null
+    },
+    {
+        "title": "Spiridon Kafritsas",
+        "url": "https://akafritsas.github.io/online-cv",
         "feed": null
     }
 ]
